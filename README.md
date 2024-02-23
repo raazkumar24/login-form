@@ -1,2 +1,2 @@
 # login-form
-Beutiful login &amp; sign in form
+Beautiful login &amp; sign in page i hope u like it 
